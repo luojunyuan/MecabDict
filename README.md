@@ -1,5 +1,3 @@
-the md5 value is char.bin
-
 ### IpaDic
 
 | link | size | after decompression | char.bin md5 |
