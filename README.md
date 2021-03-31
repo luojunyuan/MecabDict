@@ -20,3 +20,12 @@
 | link | size | after decompression | char.bin md5 |
 | ---- | ---- | ------------------- | ------------ |
 | [mecab-jumandic with source script](https://pan.baidu.com/s/1dEO3u8n04boineo_oyLwhg) 提取码: 36du | 32.24mb | 217mb | ? |
+
+
+```
+char.bin
+dicrc
+matrix.bin
+sys.dic
+unk.dic
+```
