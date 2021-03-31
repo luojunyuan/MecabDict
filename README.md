@@ -25,11 +25,17 @@
 ---
 
 ```
+基本的5个文件
 char.bin
 dicrc
 matrix.bin
 sys.dic
 unk.dic
+有些多了4个def文件不知有没用的
+left-id/.def
+right-id.def
+pos-id.def
+rewrite.def
 ```
 
 https://www.atilika.com/releases/
