@@ -13,7 +13,11 @@
 | [現代書き言葉UniDic 2.3.0](https://unidic.ninjal.ac.jp/unidic_archive/cwj/2.3.0/unidic-cwj-2.3.0.zip) | 2.2G | ? | ? |
 | [現代話し言葉UniDic 3.0.1.1](https://unidic.ninjal.ac.jp/unidic_archive/csj/3.0.1.1/unidic-csj-3.0.1.1.zip) | 1.5G | ? | ? |
 | ~~[unidic-mecab-2.1.2_src-neologd-20200910](https://pan.baidu.com/s/1EXsQnWEiST6VbHohyvLLKQ) 提取码: kqhc~~ | ~~209mb~~ | ~~1.37 GB~~ | ~~92C3E76ABBB89274EE95A9B8698E691E~~ |
-| [unidic-neologd-20200910](https://pan.baidu.com/s/1cnaVxpGPLnJdQlsYkNPtJw) 提取码: vrtx | 43.5mb | 196mb | 92C3E76ABBB89274EE95A9B8698E691E |
+| [unidic-neologd-20200910](https://pan.baidu.com/s/1cnaVxpGPLnJdQlsYkNPtJw) 提取码: vrtx (**Not Recommand**) | 43.5mb | 196mb | 92C3E76ABBB89274EE95A9B8698E691E |
+| [現代書き言葉UniDic 3.1.0 cwj](https://unidic.ninjal.ac.jp/unidic_archive/cwj/3.1.0/unidic-cwj-3.1.0.zip) | 528mb | 0.97g | - |
+| [現代話し言葉UniDic 3.1.0 csj](https://unidic.ninjal.ac.jp/unidic_archive/csj/3.1.0/unidic-csj-3.1.0.zip) | 529mb | ? | ? |
+
+不推荐使用neologd的unidic词典，因为里面很多词组feture长度和ipadic一模一样，没有原版unidic那么完整，ipadic是没问题的。
 
 ---
 
