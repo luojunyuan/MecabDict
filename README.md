@@ -19,6 +19,8 @@
 
 不推荐使用neologd的unidic词典，因为里面很多词组feture长度和ipadic一模一样，没有原版unidic那么完整，ipadic是没问题的。
 
+其他的unidic也是有这个可能，有些词汇与ipadic一样，featrue长度比较短。所以操作时需要判断空。
+
 ---
 
 ### JumanDic
